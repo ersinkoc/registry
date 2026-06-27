@@ -1,0 +1,20 @@
+{
+  "id": "wrongstack",
+  "name": "WrongStack",
+  "version": "0.274.1",
+  "description": "Terminal AI coding agent with ACP client and agent support.",
+  "repository": "https://github.com/WrongStack/WrongStack",
+  "website": "https://github.com/WrongStack/WrongStack#readme",
+  "authors": [
+    "ECOSTACK TECHNOLOGY OÜ"
+  ],
+  "license": "MIT",
+  "distribution": {
+    "npx": {
+      "package": "wrongstack@0.274.1",
+      "args": [
+        "acp"
+      ]
+    }
+  }
+}
